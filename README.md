@@ -1,2 +1,2 @@
 # miweb
-Mi web personal
+Mi web personal by @juancos77
